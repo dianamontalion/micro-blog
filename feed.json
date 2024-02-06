@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://mentrix.micro.blog/2024/02/06/am-sitting-on.html",
+				
+				"content_html": "<p>6am, sitting on the couch together, drinking coffee. Macbook Pros &amp; noise-cancelling headphones. Wordle scores posted in the family Slack channel. He&rsquo;s studying for the K8s exam. I&rsquo;m writing the last chapter of my O&rsquo;Reilly book. I&rsquo;d say something snarky about &ldquo;geek love&rdquo; but this really is wonderful</p>\n",
+				"content_text": "6am, sitting on the couch together, drinking coffee. Macbook Pros & noise-cancelling headphones. Wordle scores posted in the family Slack channel. He's studying for the K8s exam. I'm writing the last chapter of my O'Reilly book. I'd say something snarky about \"geek love\" but this really is wonderful\n",
+				"date_published": "2024-02-06T06:49:39-05:00",
+				"url": "https://mentrix.micro.blog/2024/02/06/am-sitting-on.html"
+			},
+			{
+				"id": "http://mentrix.micro.blog/2024/01/30/why-turning-off.html",
+				
+				"content_html": "<p>Why turning off Messages before you begin your focus session is important. Your friends are interesting or they wouldn&rsquo;t be your friends.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Why turning off Messages before you begin your focus session is important. Your friends are interesting or they wouldn't be your friends. \n\n<img src=\"uploads/2024/screenshot-2024-01-30-at-8.44.36am.png\" width=\"600\" height=\"469\" alt=\"\">\n",
+				"date_published": "2024-01-30T08:49:49-05:00",
+				"url": "https://mentrix.micro.blog/2024/01/30/why-turning-off.html"
+			},
+			{
 				"id": "http://mentrix.micro.blog/2024/01/28/andrew-harmellaw-is.html",
 				
 				"content_html": "<p>Andrew Harmel-Law is writing Facilitating Software Architecture while I am writing Learning Systems Thinking. Today we started a 30 day challenge using Writing Analytics. I&rsquo;m not usually motivated by data tracking but this tool has improved my focus significantly. <a href=\"https://app.writinganalytics.co\">app.writinganalytics.co</a></p>\n",
